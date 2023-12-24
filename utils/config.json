@@ -1,0 +1,9 @@
+{
+    "main": {
+        "settings": {
+            "Links": "links.txt",
+            "Name": "ProxyCollector v1.0",
+            "Developer": "https://github.com/BetterCallM"
+        }
+    }
+}
